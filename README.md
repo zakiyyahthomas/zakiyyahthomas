@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+10/15/2024
+- 🔭 I’m currently working on New Hire Onboarding. 
+- 🌱 I’m currently learning everything about GitHub and my role!
+- 👯 I’m looking to collaborate on best practices using repos.
+- 🤔 I’m looking for help with learning how to use Copilot.
+- 💬 Ask me about Math and Football.
+- ⚡ Fun fact: I am obsessed with all things math. 
