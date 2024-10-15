@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey Y'all 👋
 
 <!--
 **zakiyyahthomas/zakiyyahthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
