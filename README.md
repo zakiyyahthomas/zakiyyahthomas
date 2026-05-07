@@ -15,7 +15,7 @@ I'm a **Customer Reliability Engineer** at GitHub, focused on keeping our most s
 - 🌱 Deepening skills in **KQL, git internals, and Actions infrastructure**
 - 🛠️ Contributing to **peer mentoring** and CRE process improvements
 - 👯 Mentoring peers on **soft skills and customer relationship management**
-- 💬 Ask me about **soft skills, customer obsessed mentality, and my experience as a Hubber**
+- 💬 Ask me about **soft skills, customer obsessed mentality, my experience as a Hubber, math, and football**
 
 ### Customers I Support
 
