@@ -17,9 +17,6 @@ I'm a **Customer Reliability Engineer** at GitHub, focused on keeping our most s
 - 👯 Mentoring peers on **soft skills and customer relationship management**
 - 💬 Ask me about **soft skills, customer obsessed mentality, my experience as a Hubber, math, and football**
 
-### Customers I Support
-
-Northern Trust · Cloudera · Candescent · Okta · GoDaddy · Comcast
 
 ### Fun Facts
 
